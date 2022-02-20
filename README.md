@@ -8,6 +8,9 @@ This free template is based on Podcasting Website design on Figma community file
 
 The template is not yet done, still missing the responsive design. 
 
+## Demo 
+https://prettify.studio/free/podcaster/
+
 ## Usage 
 Clone the repo
 ```
