@@ -7,6 +7,7 @@
 This free template is based on Podcasting Website design on Figma community files, [check it here](https://www.figma.com/community/file/1075027476640890753) , using TailwindCSS v3.
 
 The template is not yet done, still missing the responsive design. 
+TODO
 
 ## Demo 
 https://prettify.studio/free/podcaster/
